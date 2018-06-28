@@ -8,10 +8,14 @@ class xiaodakaController extends Controller {
     }
 
     async update(){
-        const { ctx, service } = this;
-
-        console.log(ctx.body);
+        console.log('----===卡卡看看',this.ctx.query);
+        this.ctx.body = 'get';
     }
+    async updatePost(){
+        console.log('----===卡卡看看',this.ctx.request.body);
+        this.ctx.body = 'post';
+    }
+
 }
 
 module.exports = xiaodakaController;

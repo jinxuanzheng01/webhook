@@ -4,3 +4,13 @@
 2018-06-28 20:58:22,299 INFO 6666 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
 2018-06-28 20:58:37,145 INFO 6675 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
 2018-06-28 20:58:37,145 INFO 6675 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
+2018-06-28 21:24:49,065 INFO 6971 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
+2018-06-28 21:24:49,066 INFO 6971 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
+2018-06-28 21:25:50,554 INFO 6999 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
+2018-06-28 21:25:50,555 INFO 6999 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
+2018-06-28 21:28:24,331 INFO 7041 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
+2018-06-28 21:28:24,332 INFO 7041 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
+2018-06-28 21:29:15,762 INFO 7054 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
+2018-06-28 21:29:15,763 INFO 7054 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
+2018-06-28 21:36:20,797 INFO 7112 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-06-29 00:00:00.000
+2018-06-28 21:36:20,798 INFO 7112 [Timer] /Users/xuan/Desktop/webhook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-06-29 00:00:01.000
