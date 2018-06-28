@@ -1,0 +1,16 @@
+2018-06-28 20:52:37,600 INFO 6642 [egg:logger] init all loggers with options: {"dir":"/Users/xuan/Desktop/webhook/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-06-28 20:52:37,680 INFO 6642 [egg:core] dump config after load, 5ms
+2018-06-28 20:52:37,720 INFO 6642 [egg-watcher:agent] watcher start success
+2018-06-28 20:52:37,752 INFO 6642 [egg:core] dump config after ready, 5ms
+2018-06-28 20:58:21,712 INFO 6666 [egg:logger] init all loggers with options: {"dir":"/Users/xuan/Desktop/webhook/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-06-28 20:58:21,751 INFO 6666 [egg:core] dump config after load, 3ms
+2018-06-28 20:58:21,777 INFO 6666 [egg-watcher:agent] watcher start success
+2018-06-28 20:58:21,794 INFO 6666 [egg:core] dump config after ready, 2ms
+2018-06-28 20:58:36,556 INFO 6675 [egg:logger] init all loggers with options: {"dir":"/Users/xuan/Desktop/webhook/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-06-28 20:58:36,595 INFO 6675 [egg:core] dump config after load, 3ms
+2018-06-28 20:58:36,621 INFO 6675 [egg-watcher:agent] watcher start success
+2018-06-28 20:58:36,638 INFO 6675 [egg:core] dump config after ready, 3ms
+2018-06-28 21:03:52,125 WARN 6675 [agent:development] reload worker because /Users/xuan/Desktop/webhook/app/controller/home.js___jb_old___ rename
+2018-06-28 21:03:51,918 INFO 6675 Recieved a change event from eventSource: {"event":"rename","path":"/Users/xuan/Desktop/webhook/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4194304,"ino":4632543,"size":194,"blocks":8,"atimeMs":1530191031855.9534,"mtimeMs":1530191031856.0613,"ctimeMs":1530191031861.8086,"birthtimeMs":1530191031855.9534,"atime":"2018-06-28T13:03:51.856Z","mtime":"2018-06-28T13:03:51.856Z","ctime":"2018-06-28T13:03:51.862Z","birthtime":"2018-06-28T13:03:51.856Z"},"remove":false,"isDirectory":false,"isFile":true}
+2018-06-28 21:03:51,921 INFO 6675 Recieved a change event from eventSource: {"event":"rename","path":"/Users/xuan/Desktop/webhook/app/controller/home.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2018-06-28 21:03:51,921 INFO 6675 Recieved a change event from eventSource: {"event":"rename","path":"/Users/xuan/Desktop/webhook/app/controller/home.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
